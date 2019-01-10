@@ -32,7 +32,7 @@ Original Dataset:
 
 Accuracy of different models is reported on both the datasets:
 
-| Model     | Google Dataset     | Original Dataset    |
------------   ------------------   --------------------
-DenseNet161 Model 1    |  60.36036036036037    | 90.84249084249085    |
-----------------------  ---------------------   ---------------------
+| Model         |  Google Dataset      | Original Dataset |
+| --------------- | -------------------- | ---------------- |
+|DenseNet161 Model 1 | 60.36036036036037 | 90.84249084249085 | 
+|---------------------|-------------------|------------------|
