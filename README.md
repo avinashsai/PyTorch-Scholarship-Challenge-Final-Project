@@ -32,6 +32,9 @@ Original Dataset:
 
 Accuracy of different models is reported on both the datasets:
 
+There is another DenseNet201 Model for which the highest accuracy is measured(64% for Google Dataset and 93.5% for Original Dataset).
+It was not added.
+
 | Model           |  Google Dataset      | Original Dataset |
  --- | --- | ---
 DenseNet161 Model 1 | 62.16216216216216 | 90.96459096459097 
