@@ -24,7 +24,7 @@ Google Dataset:
 
 Original Dataset:
 
-!wget -O flower_data_orginal_test.zip \"https://www.dropbox.com/s/da6ye9genbsdzbq/flower_data_original_test.zip?dl=1
+!wget -O flower_data_orginal_test.zip "https://www.dropbox.com/s/da6ye9genbsdzbq/flower_data_original_test.zip?dl=1
 !unzip flower_data_orginal_test.zip  -d /testoriginal
 ```
 
