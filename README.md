@@ -35,7 +35,7 @@ Accuracy of different models is reported on both the datasets:
 | Model           |  Google Dataset      | Original Dataset |
 | --------------- | -------------------- | ---------------- |
 |DenseNet161 Model 1 | 62.16216216216216 | 90.96459096459097 | 
-
+|-----|-----|----|
 |DenseNet201 Model 1  | 60.36036036036037 | 90.84249084249085|
 
 |DenseNet201 Model 2  | 56.95695695695696 | 85.83638583638583|
